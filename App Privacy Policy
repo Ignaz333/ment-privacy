@@ -1,54 +1,51 @@
-App Privacy Policy
-Version: 1.26
-Last updated: June 2025
-
-1. Controller under Art. 4 (7) GDPR
+ Datenschutzerklärung
+Stand: Juli 2025
+App: Mentilo
+Verantwortlicher:
 Niclas Braun
 Plettenbergstraße 20b
 21031 Hamburg
-Email: bingoscann@gmail.com
+E-Mail: mentilo.game@gmail.com
 
-2. Data Processing in the App
-The app only processes personal data as necessary and in accordance with the following legal bases under Art. 6 GDPR:
+1. Allgemeines
+Ich nehme den Schutz Ihrer personenbezogenen Daten ernst. Die Nutzung der App „Mentilo“ ist grundsätzlich ohne Angabe personenbezogener Daten möglich. Es werden jedoch bestimmte Dienste von Drittanbietern verwendet, die Daten verarbeiten.
 
-Firebase Authentication: User ID (UID) for login. Legal basis: Art. 6(1)(b) GDPR
+2. Welche Daten werden erfasst?
+a) Benutzerdaten
+Beim Start der App wird ein anonymer Benutzeraccount erstellt. Zusätzlich wird ein frei wählbarer Benutzername gespeichert. Dieser dient ausschließlich zur Anzeige in Ranglisten.
 
-Cloud Firestore: Stores bingo cards, draw data and UID for managing entries. Legal basis: Art. 6(1)(b) GDPR
+b) Spielstatistiken
+Spielmodi, Punkte, Spielzeiten und andere Leistungsdaten werden lokal gespeichert und teilweise in Firestore synchronisiert (z. B. zur Darstellung von Rankings und Daily Challenges).
 
-Local storage (Room): Cards and draws are also stored locally on the device. Legal basis: Art. 6(1)(b) GDPR
+c) Firebase Crashlytics & Analytics
+Zur Verbesserung der App-Stabilität und Fehleranalyse werden Abstürze (Crashlytics) sowie Nutzungsdaten (Analytics) anonym erfasst.
 
-ML Kit: On-device text recognition. No data is sent to Google servers. Legal basis: Art. 6(1)(f) GDPR
+d) Google AdMob, Unity Ads, Meta Audience Network
+Die App verwendet Werbung über Google AdMob sowie vermittelte Anzeigen von Unity Ads und Meta. Bei Zustimmung zur personalisierten Werbung können Werbe-IDs verwendet werden. Die Einwilligung wird über das Consent SDK abgefragt und gespeichert.
 
-Tesseract OCR: Local text recognition using open-source software. Legal basis: Art. 6(1)(f) GDPR
+e) Firebase Remote Config
+App-Einstellungen (z. B. Punktvergabe, Schwierigkeitsgrade) werden dynamisch über Firebase Remote Config gesteuert.
 
-OpenCV: Image processing performed locally on the device to improve OCR. Legal basis: Art. 6(1)(f) GDPR
+3. Rechtsgrundlage
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an App-Funktion und Stabilität) bzw. Art. 6 Abs. 1 lit. a DSGVO bei Einwilligung (z. B. Werbung).
 
-AWS Textract (Ultra Scan): Used only after explicit user consent. Images are transmitted in encrypted form to AWS. Legal basis: Art. 6(1)(a) GDPR
+4. Speicherort der Daten
+Alle gespeicherten Daten liegen auf Servern von Google (Firebase), deren Verarbeitung auch außerhalb der EU erfolgen kann. Google ist nach dem EU-US Data Privacy Framework zertifiziert.
 
-Google AdMob: Ads are provided via the AdMob SDK. Personalized ads require explicit consent. If declined, non-personalized ads are shown. Legal basis: Art. 6(1)(a) GDPR (personalized), Art. 6(1)(f) GDPR (non-personalized)
+5. Ihre Rechte
+Sie haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung Ihrer gespeicherten Daten. Bei Fragen genügt eine E-Mail an: mentilo.game@gmail.com
 
-Rewarded Ads: Optional video ads may be watched to unlock one-time benefits. Legal basis: Art. 6(1)(a) GDPR
+6. Einwilligungsverwaltung
+Sie können Ihre Einwilligung zur Datenverarbeitung (z. B. Werbung) jederzeit in den App-Einstellungen widerrufen.
 
-Firebase Analytics & Crashlytics: Used to improve app stability. Only pseudonymized data is processed. Legal basis: Art. 6(1)(f) GDPR
+📜 Impressum
+Angaben gemäß § 5 TMG
 
-Email support: If you contact us by email, your email address and message will be processed. Legal basis: Art. 6(1)(a) GDPR
-
-Google Play Billing: Purchases are processed via Google Play. No payment data is stored in the app. Legal basis: Art. 6(1)(b) GDPR
-
-3. Hosting & Data Processing
-Data is processed through Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google is certified under the EU-U.S. Data Privacy Framework. Data is only transferred outside the EU when an adequate level of data protection is ensured under Art. 45 GDPR.
-
-4. Data Retention
-User data (e.g., UID and saved cards) is retained until manually deleted by the user. Ad consent can be changed at any time within the app. Support emails are deleted 90 days after resolution. Server logs are anonymized and stored for a maximum of 90 days for technical purposes.
-
-5. Your Rights Under the GDPR
-You have the right to access, correct, delete or restrict the processing of your data, to object to processing, and to data portability. You can delete your data directly in the app under “Delete Account & Data”.
-
-6. Changes to This Privacy Policy
-This privacy policy may be updated due to legal, technical, or functional changes. The current version is always available in the app.
-
-7. Contact
+Verantwortlich für den Inhalt dieser App:
 Niclas Braun
 Plettenbergstraße 20b
 21031 Hamburg
-Email: bingoscann@gmail.com
+E-Mail: mentilo.game@gmail.com
+
+Art des Angebots:
+Mentilo ist ein kommerzielles Angebot.
