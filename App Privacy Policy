@@ -1,51 +1,53 @@
- Datenschutzerklärung
-Stand: Juli 2025
-App: Mentilo
-Verantwortlicher:
+Mentilo Terms & Conditions
+Effective: July 2025
+
+1. Scope
+These Terms & Conditions ("Terms") govern the use of the Mentilo mobile application and any related services operated by Niclas Braun ("we" or "us"). By installing or using Mentilo you agree to be bound by these Terms as well as our Privacy Policy.
+
+2. Eligibility & Accounts
+Mentilo is intended for users aged 13 and above. When starting the app, an anonymous user profile is generated and you may optionally choose a username. You are responsible for keeping your device secure and for any actions taken through your profile.
+
+3. Permitted Use
+You agree to use Mentilo only for lawful purposes and in accordance with game rules. Automated interactions, exploits, or manipulation of leaderboards and matchmaking are prohibited. We reserve the right to remove suspicious scores, anonymize or block offensive usernames, and suspend access in case of misuse.
+
+4. Virtual Goods & Advertising
+Mentilo may offer in-app purchases or rewarded advertising. Purchases are handled through the respective app store and subject to its terms. Advertisements may be personalized based on your consent. Rewards granted through ads or purchases are non-transferable and have no cash value.
+
+5. Intellectual Property
+All content, code, graphics, and trademarks within Mentilo are owned or licensed by us. You receive a limited, non-exclusive, non-transferable license to use the app for personal, non-commercial entertainment purposes. Reverse engineering, redistribution, or commercial exploitation is prohibited unless permitted by law.
+
+6. Third-Party Services
+Mentilo integrates services such as Firebase (authentication, analytics, crash reporting, remote config), Google AdMob, Unity Ads, and Meta Audience Network. These providers may process data as described in our Privacy Policy. Service availability may change at any time.
+
+7. Warranties & Liability
+Mentilo is provided "as is" without warranties of uninterrupted availability or error-free operation. To the maximum extent permitted by law, we are not liable for indirect, incidental, or consequential damages arising from the use of the app. Mandatory statutory rights remain unaffected.
+
+8. Termination
+You may stop using Mentilo at any time by uninstalling the app. We may suspend or terminate access if you breach these Terms or if continued operation becomes impractical due to legal or technical reasons.
+
+9. Changes to the Terms
+We may update these Terms to reflect changes in features, legal requirements, or business practices. Significant updates will be communicated in-app or via the app store listing. Continued use after updates constitutes acceptance of the revised Terms.
+
+10. Governing Law & Dispute Resolution
+These Terms are governed by the laws of Germany. Mandatory consumer protection rules of your country of residence remain unaffected. Disputes will be resolved amicably whenever possible; otherwise, statutory jurisdiction rules apply.
+
+Privacy Overview
+For transparency, the following summarizes key points of our Privacy Policy:
+- Anonymous user IDs and optional usernames are stored for leaderboards and matchmaking.
+- Game statistics are saved locally and partially synchronized with Firestore.
+- Crashlytics and Analytics help improve stability.
+- Ads are served via Google AdMob and mediation partners. Personalized ads require your consent.
+- Remote configuration adjusts gameplay parameters dynamically.
+- Ghost Player replays use anonymized performance data only.
+
+You may revoke consent for advertising or request data access, correction, or deletion via bingoscann@gmail.com.
+
+📜 Imprint (according to § 5 TMG)
+Responsible for the content of this app:
 Niclas Braun
 Plettenbergstraße 20b
-21031 Hamburg
-E-Mail: mentilo.game@gmail.com
+21031 Hamburg, Germany
+E-Mail: bingoscann@gmail.com
 
-1. Allgemeines
-Ich nehme den Schutz Ihrer personenbezogenen Daten ernst. Die Nutzung der App „Mentilo“ ist grundsätzlich ohne Angabe personenbezogener Daten möglich. Es werden jedoch bestimmte Dienste von Drittanbietern verwendet, die Daten verarbeiten.
 
-2. Welche Daten werden erfasst?
-a) Benutzerdaten
-Beim Start der App wird ein anonymer Benutzeraccount erstellt. Zusätzlich wird ein frei wählbarer Benutzername gespeichert. Dieser dient ausschließlich zur Anzeige in Ranglisten.
-
-b) Spielstatistiken
-Spielmodi, Punkte, Spielzeiten und andere Leistungsdaten werden lokal gespeichert und teilweise in Firestore synchronisiert (z. B. zur Darstellung von Rankings und Daily Challenges).
-
-c) Firebase Crashlytics & Analytics
-Zur Verbesserung der App-Stabilität und Fehleranalyse werden Abstürze (Crashlytics) sowie Nutzungsdaten (Analytics) anonym erfasst.
-
-d) Google AdMob, Unity Ads, Meta Audience Network
-Die App verwendet Werbung über Google AdMob sowie vermittelte Anzeigen von Unity Ads und Meta. Bei Zustimmung zur personalisierten Werbung können Werbe-IDs verwendet werden. Die Einwilligung wird über das Consent SDK abgefragt und gespeichert.
-
-e) Firebase Remote Config
-App-Einstellungen (z. B. Punktvergabe, Schwierigkeitsgrade) werden dynamisch über Firebase Remote Config gesteuert.
-
-3. Rechtsgrundlage
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an App-Funktion und Stabilität) bzw. Art. 6 Abs. 1 lit. a DSGVO bei Einwilligung (z. B. Werbung).
-
-4. Speicherort der Daten
-Alle gespeicherten Daten liegen auf Servern von Google (Firebase), deren Verarbeitung auch außerhalb der EU erfolgen kann. Google ist nach dem EU-US Data Privacy Framework zertifiziert.
-
-5. Ihre Rechte
-Sie haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung Ihrer gespeicherten Daten. Bei Fragen genügt eine E-Mail an: mentilo.game@gmail.com
-
-6. Einwilligungsverwaltung
-Sie können Ihre Einwilligung zur Datenverarbeitung (z. B. Werbung) jederzeit in den App-Einstellungen widerrufen.
-
-📜 Impressum
-Angaben gemäß § 5 TMG
-
-Verantwortlich für den Inhalt dieser App:
-Niclas Braun
-Plettenbergstraße 20b
-21031 Hamburg
-E-Mail: mentilo.game@gmail.com
-
-Art des Angebots:
-Mentilo ist ein kommerzielles Angebot.
+Type of Offer: Mentilo is a commercial product.''' ;
